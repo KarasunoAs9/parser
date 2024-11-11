@@ -35,7 +35,7 @@ This is a Python-based job parser that automates the process of scraping job lis
 2. Create a virtual environment and activate it:
     ```bash
       python -m venv .venv
-      source .venv/bin/activate #For windows
+      .venv/Scripts/activate #For windows
       source .venv/bin/activate #For Linux/MacOS
    ```
 3. Install the dependencies:
